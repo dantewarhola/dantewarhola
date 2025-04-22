@@ -22,7 +22,7 @@ I’m a Computer Science major at the University of Pittsburgh with a passion fo
 
 <br/>
 
-
+#
 
 ### 📊 Stats
 ![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantewarhola&show_icons=true&theme=swift)
