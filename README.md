@@ -9,12 +9,7 @@ I’m a Computer Science major at the University of Pittsburgh with a passion fo
 
 <p align="center">
   <a href="https://linkedin.com/in/dante-warhola/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn" 
-      width="30" 
-      style="margin-right:10px;"
-    />
+    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
 
