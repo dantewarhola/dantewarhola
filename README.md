@@ -5,6 +5,20 @@
 I’m a Computer Science major at the University of Pittsburgh with a passion for cybersecurity and secure software design. As Risk Management Chair for Pi Kappa Phi, I build and enforce safety protocols for 250+‑person events, develop contingency plans, and educate members on harm‑reduction strategies. I also bring strong organizational and service skills from my role at Elkview Country Club, and I’m proficient in Java, Python, MIPS Assembly, HTML/CSS, Git, VS Code, and Eclipse.
 
 
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dante-warhola/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn" 
+      width="30" 
+      style="margin-right:10px;"
+    />
+  </a>
+</p>
+
+
 ### 🛠️ Languages & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
