@@ -28,3 +28,8 @@ I’m a Computer Science major at the University of Pittsburgh with a passion fo
 ![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantewarhola&show_icons=true&theme=swift)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dantewarhola&layout=compact)
+
+
+#
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantewarhola&repo=phishing-ai-detector)](https://github.com/dantewarhola/phishing-ai-detector)
