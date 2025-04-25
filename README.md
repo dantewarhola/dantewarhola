@@ -1,4 +1,4 @@
-# 🧑🏼‍🎓 Dante Lorenzo Warhola
+# Dante Lorenzo Warhola
 
 **`Cybersecurity Entheusiast (Programmer/Athlete/Creator)`**
 
