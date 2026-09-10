@@ -1,8 +1,8 @@
 # Dante Lorenzo Warhola
 
-**`Aspiring Cybersecurity Engineer | Secure Software Design | Risk Management Chair | CompTIA+ (In Progress)`**
+**`Aspiring Cybersecurity Engineer | Secure Software Design | Risk Management Chair | CompTIA Security+ Certified`**
 
-I’m a Computer Science major at the University of Pittsburgh with a passion for cybersecurity and secure software design. As Risk Management Chair for Pi Kappa Phi, I build and enforce safety protocols for 250+‑person events, develop contingency plans, and educate members on harm‑reduction strategies. I also bring strong organizational and service skills from my role at Elkview Country Club. Currently, I’m working toward my CompTIA Security+ certification to deepen my expertise in network security and vulnerability management, and I’m actively building new projects—ranging from secure software tools to automated network scanners—to expand my hands‑on experience.
+I’m a Computer Science major at the University of Pittsburgh with a passion for cybersecurity and secure software design. As Risk Management Chair for Pi Kappa Phi, I build and enforce safety protocols for 250+‑person events, develop contingency plans, and educate members on harm‑reduction strategies. I also bring strong organizational and service skills from my role at Elkview Country Club. Currently, I completed my CompTIA Security+ certification and have deepen my expertise in network security and vulnerability management, and I’m actively building new projects—ranging from secure software tools to automated network scanners—to expand my hands‑on experience.
 
 
 ### 🔗 Connect with Me
