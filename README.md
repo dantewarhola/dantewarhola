@@ -15,7 +15,7 @@ I’m a Computer Science major at the University of Pittsburgh with a passion fo
 
 <p align="center">
   <a href="https://dantewarhola.vercel.app/" target="_blank">
-    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
 </p>
 
